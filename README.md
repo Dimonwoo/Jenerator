@@ -9,4 +9,4 @@ I made this program to understand the power of Rust, but it can be useful, but I
 
 ## Compile
 
-Juste `cargo build`
+Just `cargo build`
